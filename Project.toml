@@ -1,0 +1,4 @@
+name = "ToolipsWebMeasures"
+uuid = "70aa35a1-3dcf-4f45-8f50-6d099f0a509c"
+authors = ["emmac <emmacboudreau@gmail.com>"]
+version = "0.1.0"
